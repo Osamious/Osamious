@@ -26,9 +26,12 @@ built for climate research at QEERI, Hamad Bin Khalifa University.
 
 ## Publications
 
+- K. Dhibi, A. Mohamed, **O. Hasoneh**, F. El-Mellouhi, "Regime-Aware Mineral Price Prediction via
+  Hybrid Quantum–Classical Deep Learning with Mid-Layer Attention Fusion," *Integrating Materials
+  and Manufacturing Innovation*, Springer Nature, 2026.
 - K. Dhibi, A. Mohamed, **O. Hasoneh**, F. El-Mellouhi, "A Hybrid Quantum–Classical Deep-Learning
-  Framework for Critical-Mineral Price Prediction," *Integrating Materials and Manufacturing
-  Innovation*, Springer Nature, 2026.
+  Framework for Critical-Mineral Price Prediction," IECON 2026, 52nd Annual Conf. of the IEEE
+  Industrial Electronics Society, Doha, Qatar. Accepted.
 - R. Y. AlHamidi, A. A. Mohamed, M. A. Eltayeb, **O. Hasoneh**, M. Shaqfeh, "[HiRes: A Hierarchical
   Cascaded Method for Resistor Value Identification](https://github.com/HiRes491/HiRes)," 33rd Int.
   Conf. on Neural Information Processing (ICONIP 2026), Melbourne, Australia. Accepted.
