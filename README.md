@@ -26,9 +26,6 @@ built for climate research at QEERI, Hamad Bin Khalifa University.
 
 ## Publications
 
-- K. Dhibi, A. Mohamed, **O. Hasoneh**, F. El-Mellouhi, "Regime-Aware Mineral Price Prediction via
-  Hybrid Quantum–Classical Deep Learning with Mid-Layer Attention Fusion," *Integrating Materials
-  and Manufacturing Innovation*, Springer Nature, 2026.
 - K. Dhibi, A. Mohamed, **O. Hasoneh**, F. El-Mellouhi, "A Hybrid Quantum–Classical Deep-Learning
   Framework for Critical-Mineral Price Prediction," IECON 2026, 52nd Annual Conf. of the IEEE
   Industrial Electronics Society, Doha, Qatar. Accepted.
