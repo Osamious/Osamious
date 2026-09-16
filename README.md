@@ -7,20 +7,20 @@ A&M University.
 
 ## Focus
 
-- **Embedded & Firmware** — STM32 (Cortex-M33), ESP32, RTOS application design, sensor fusion,
+- **Embedded & Firmware:** STM32 (Cortex-M33), ESP32, RTOS application design, sensor fusion,
   real-time signal processing
-- **Hardware & PCB** — schematic capture, PCB layout, bench characterization, board bring-up
-- **Digital Design** — Verilog HDL, RTL and FSM design, FPGA implementation
-- **Signal Processing** — digital filter design, DSP on embedded targets
+- **Hardware & PCB:** schematic capture, PCB layout, bench characterization, board bring-up
+- **Digital Design:** Verilog HDL, RTL and FSM design, FPGA implementation
+- **Signal Processing:** digital filter design, DSP on embedded targets
 
 ## Projects
 
-**[UltimateWrap (UW)](https://github.com/Osamious/ultimatewrap)** — a gateway that wraps any
+**[UltimateWrap (UW)](https://github.com/Osamious/ultimatewrap)**: a gateway that wraps any
 model provider's API key behind one interface, letting a coding agent switch models mid-session
 with no restart and no lost context. Built the picker by reverse-engineering the host editor's own
 handoff mechanism.
 
-**[ERA5 Dashboard](https://github.com/Osamious/ERA5_Dashboard)** — a Python/Dash platform for the
+**[ERA5 Dashboard](https://github.com/Osamious/ERA5_Dashboard)**: a Python/Dash platform for the
 ERA5 climate reanalysis archive: retrieval, spatial visualization, and forecasting in one tool,
 built for climate research at QEERI, Hamad Bin Khalifa University.
 
